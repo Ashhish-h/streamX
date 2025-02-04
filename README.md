@@ -55,7 +55,7 @@ Open a new terminal, navigate to the server folder, and install dependencies:
 ```sh
 cd server
 npm install
-npm start
+npm server.js
 ```
 
 Your application should now be up and running! 🚀
